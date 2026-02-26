@@ -1,11 +1,60 @@
 # CFA Study Notes
 
-Welcome to my CFA study notes repository!  
-Here you will find my organized notes for Level 1, including summaries, formulas, and practice examples.
+A structured and continuously updated set of CFA study notes, including key concepts, formulas, and return calculations.
+
+---
+
+## 📌 About This Repository
+
+This repository contains my organized CFA notes, structured by Level and Learning Outcome Statements (LOS).  
+The goal is to build a clear and systematic knowledge base for finance fundamentals.
+
+- Language: English (with Chinese annotations)
+- Focus: Concept clarity + formula rigor
+- Format: Markdown (LaTeX supported)
+
+---
 
 ## 📂 Repository Structure
-- **Level 1** – Notes for CFA Level 1
-- **Extras** – Additional formulas, charts, and tips
 
-## 🔗 Useful Links
-- [Notion Public Page](under construction) – Visual version of the notes
+### Level I
+
+| Topic | Module | Link |
+|-------|--------|------|
+| Quantitative Methods | Interest Rates & Return | [View Notes](./Level1/Interest-Rates-and-Return-Measurement.md) |
+| Economics | TBD |  |
+
+---
+
+### Level II
+
+Coming soon.
+
+---
+
+### Level III
+
+Coming soon.
+
+
+---
+
+## 📝 Notion Version (Visual Format)
+
+For a structured visual version of the notes:
+
+🔗 [Notion Public Page](coming soon.)
+
+---
+
+## ⚠ Disclaimer
+
+These notes are for personal study purposes only and are not affiliated with CFA Institute.
+
+---
+
+## 📈 Future Plans
+
+- Add practice examples
+- Include Python-based financial calculations
+- Expand Level II notes
