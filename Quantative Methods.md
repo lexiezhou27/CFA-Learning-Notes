@@ -1,8 +1,8 @@
-# MODULE 1.1: INTEREST RATES AND RETURN MEASUREMENT
+# INTEREST RATES AND RETURN MEASUREMENT
 
-## LOS 1.a: Interpret interest rates as required rates of return, discount rates, or opportunity costs and explain an interest rate as the sum of a real risk-free rate and premiums that compensate investors for bearing distinct types of risk.
+## I. Interest Rates
 
-### 1. Interpretations of Interest Rates (利率的三种解读)
+### 1. Three Interpretations of Interest Rates (利率的三种解读)
 Interest rates measure the time value of money and can be interpreted in three ways:
 * **Required Rate of Return (必要回报率):** The minimum return that investors and savers require to willingly lend their funds, given the risk.
 * **Discount Rate (折现率):** The rate used to discount future payments to their equivalent present value.
