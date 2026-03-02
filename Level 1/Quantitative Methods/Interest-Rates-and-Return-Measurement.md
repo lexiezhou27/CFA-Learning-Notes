@@ -2,9 +2,7 @@
 
 ---
  
-**LOS 1.a: Interpret interest rates and explain the components of interest rates**   解释利率的含义及其组成部分  
-
----
+## 1️⃣ Three Ways to Interpret Interest Rates
 
 **1. Required Rate of Return（必要回报率）**  
   The minimum return I need to feel this investment is worth the risk.
@@ -65,13 +63,7 @@ $$
 ---
 
 
----
-  
-**LOS 1.b: Calculate and interpret different approaches to return measurement**  计算并解释不同的回报衡量方法  
-
----
-
-## 3️⃣ Three Way to Calculate Interest Rates
+## 3️⃣ Three Ways to Calculate Interest Rates
 
 ### 1. Holding Period Return (HPR)  持有期回报率  
 
