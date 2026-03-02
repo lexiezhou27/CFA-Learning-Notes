@@ -24,6 +24,8 @@ The goal is to build a clear and systematic knowledge base for finance fundament
 | Quantitative Methods | Interest Rates & Return |1| [View Notes](<./Level 1/Quantitative Methods/Rates & Returns/Interest-Rates-and-Return-Measurement.md>) |
 |  |  |2| [View Notes](<./Level 1/Quantitative Methods/Rates & Returns/Time Weighted and Money Weighted Returns.md>) |
 |  |  |3| [View Notes](<./Level 1/Quantitative Methods/Rates & Returns/Common Measures of Returns.md>) |
+| Quantitative Methods | The Time Value of Money in Finance |1| [View Notes](<./Level 1/Quantitative Methods/The Time Value of Money in Finance/Discounted Cash Flow Valuation.md>) |
+|  |  |2| [View Notes](<./Level 1/Quantitative Methods/The Time Value of Money in Finance/Implied Returns and Cash Flow Additivity.md>) |
 | Economics | TBD |  |  |
 
 ---
