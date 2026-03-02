@@ -77,7 +77,6 @@ $$
 {\text{Beginning Value}}
 $$
 
----
 
 #### Multi-Period HPR
 
@@ -85,8 +84,6 @@ $$
 HPR_{total} =
 [(1+R_1)(1+R_2)(1+R_3)] - 1
 $$
-
----
 
 ### 2. Average Returns  
 
