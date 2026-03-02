@@ -21,7 +21,7 @@ The goal is to build a clear and systematic knowledge base for finance fundament
 
 | Topic | Module | Link |
 |-------|--------|------|
-| Quantitative Methods | Interest Rates & Return | [View Notes](<./Level1/Quantitative Methods/Interest-Rates-and-Return-Measurement.md>) |
+| Quantitative Methods | Interest Rates & Return | [View Notes](<./Level 1/Quantitative Methods/Interest-Rates-and-Return-Measurement.md>) |
 | Economics | TBD |  |
 
 ---
