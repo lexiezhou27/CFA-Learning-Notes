@@ -23,7 +23,7 @@ The goal is to build a clear and systematic knowledge base for finance fundament
 |-------|--------|------|------|
 | Quantitative Methods | Interest Rates & Return |1| [View Notes](<./Level 1/Quantitative Methods/Rates & Returns/Interest-Rates-and-Return-Measurement.md>) |
 |  |  |2| [View Notes](<./Level 1/Quantitative Methods/Rates & Returns/Time Weighted and Money Weighted Returns.md>) |
-|  |  |3| [View Notes](<./Level 1/Quantitative Methods/Rates & Returns/Common Measures of Return.md>) |
+|  |  |3| [View Notes](<./Level 1/Quantitative Methods/Rates & Returns/Common Measures of Returns.md>) |
 | Economics | TBD |  |  |
 
 ---
